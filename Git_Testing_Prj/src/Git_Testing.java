@@ -10,7 +10,7 @@ public class Git_Testing {
 	
 	{
 				System.out.println("Testing Git");
-				
+				System.out.println("Checking the build");
 	}
 //	else
 //		System.out.println("Checking the build");
