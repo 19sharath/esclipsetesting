@@ -9,7 +9,7 @@ public class Git_Testing {
 	if(m = false) 
 	
 	{
-				System.out.println("Testing Git");
+				System.out.println("Testing");
 	}
 //	else
 //		System.out.println("Checking the build");
