@@ -9,7 +9,7 @@ public class Git_Testing {
 	if(m = false) 
 	
 	{
-				System.out.println("Testing");
+				System.out.println("Testing codepipeline");
 	}
 //	else
 //		System.out.println("Checking the build");
